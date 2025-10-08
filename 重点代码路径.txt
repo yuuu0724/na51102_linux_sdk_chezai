@@ -1,0 +1,3 @@
+na51102_linux_sdk/code/lib/source/yqlib/ADAS/AdasDetector.c
+na51102_linux_sdk/code/lib/include/yqlib/AdasDetector.h
+na51102_linux_sdk/code/application/source/cardv/SrcCode/UIApp/Movie/UIAppMovie_AlgFunc_ADAS.c

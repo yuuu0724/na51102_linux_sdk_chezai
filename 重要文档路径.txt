@@ -1,0 +1,10 @@
+重要资料文档位置：
+
+SDK快速启动教程文档位置：
+NT98530_Document_Tool\software\board\document\NT98530_SDK_Quick_Start_zh.pdf"
+
+AI2 SDK编程指南文档位置：
+1106_Novaic_CNN25_v02.04.2410300_CNN30_v03.04.241104.01_release_exe\Doc\AISDK\Novatek AI2 SDK - Programing_Guide_tc.pdf"
+
+AI转换工具文档位置：
+1106_Novaic_CNN25_v02.04.2410300_CNN30_v03.04.241104.01_release_exe/Doc/Tool/Novaic_Convertor_User_Guide_zh.pdf
